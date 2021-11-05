@@ -1,7 +1,7 @@
-title: Preserve This Podcast
-description: Preserve This Podcast is a project funded by the Andrew W. Mellon Foundation. We want to make sure that podcasts don’t disappear as software formats change and RSS hosting services go down.
+title: CTP Ethiopia Podcast
+description: CTP Ethiopia Podcast is a podcast sponsored and hosted by CTP Ethiopia Inc. On here, we discuss and navigate the college application process with people who have recently applied and who want to share their experience.
 baseurl: ""
-url: "http://www.preservethispodcast.org"
+url: "http://pod.ctpethiopia.org"
 
 # Markdown settings
 markdown: kramdown
@@ -25,13 +25,13 @@ plugins:
   - jekyll-sitemap
 
 # Podcast Feed settings
-title:          Preserve This Podcast
-email:          preservethispodcast@protonmail.com
-description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
-subtitle:       "A podcast about saving your podcast."
-url:            http://preservethispodcast.org/
+title:          CTP Ethiopia Podcast
+email:          info@ctpethiopia.org
+description:    "CTP Ethiopia Podcast is a podcast sponsored and hosted by CTP Ethiopia Inc. On here, we discuss and navigate the college application process with people who have recently applied and who want to share their experience."
+subtitle:       "Let's talk about college applications."
+url:            http://pod.ctpethiopia.org/
 language:       en-us
-author:         PreserveThisPodcast
+author:         AaronKebede
 copyright:      "CC BY 4.0"
 
 feed:
