@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 1: Time to Take Notice"
+title: "Episode 1: Rediet Bekele"
 date: 2019-03-21 09:00:00
 file: https://ia601409.us.archive.org/31/items/ctp-podcast-with-guest-rediet/CTP%20Podcast%20with%20Guest-%20Rediet.mp3
 file_itunes: https://ia601409.us.archive.org/31/items/ctp-podcast-with-guest-rediet/CTP%20Podcast%20with%20Guest-%20Rediet.mp3
