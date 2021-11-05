@@ -13,19 +13,8 @@ radiopublic_link: #
 rss_link: http://pod.ctpethiopia.org/podcast.rss
 
 episodes:
-  - name: Prologue—Podcasts are Disappearing
+  - name: Ep1- Rediet Bekele
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
-    download_link: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
+    download_link: https://ia601409.us.archive.org/31/items/ctp-podcast-with-guest-rediet/CTP%20Podcast%20with%20Guest-%20Rediet.mp3
     exercises_link:
-    transcript_file: transcript-00prologue
-  - name: Ep1—Time to Take Notice
-    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!79bb33dadbe8c03e17a417879a02e0d005395047
-    download_link: https://ia803005.us.archive.org/28/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
-    exercises_link: /#zine
-    transcript_file: trancript01-time-to-take-notice
-  - name: Ep2—Get Organized
-    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!8656cc15c4c5d699b0d9e755db6853b3efa79ee2
-    download_link: https://ia801004.us.archive.org/25/items/PreserveThisPodcastEpisode2/PreserveThisPodcast_Episode2.mp3
-    exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=5
-    transcript_file: transcript02-get-organized
-  
+    transcript_file:  
