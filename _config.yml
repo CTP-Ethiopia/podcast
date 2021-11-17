@@ -1,7 +1,7 @@
 title: CTP Ethiopia Podcast
 description: CTP Ethiopia Podcast is a podcast sponsored and hosted by CTP Ethiopia Inc. On here, we discuss and navigate the college application process with people who have recently applied and who want to share their experience.
 baseurl: ""
-url: "http://pod.ctpethiopia.org"
+url: "https://pod.ctpethiopia.org"
 
 # Markdown settings
 markdown: kramdown
@@ -29,7 +29,7 @@ title:          CTP Ethiopia Podcast
 email:          info@ctpethiopia.org
 description:    "CTP Ethiopia Podcast is a podcast sponsored and hosted by CTP Ethiopia Inc. On here, we discuss and navigate the college application process with people who have recently applied and who want to share their experience."
 subtitle:       "Let's talk about college applications."
-url:            http://pod.ctpethiopia.org/
+url:            https://pod.ctpethiopia.org/
 language:       en-us
 author:         CTP Ethiopia Inc.
 copyright:      "CC BY 4.0"
